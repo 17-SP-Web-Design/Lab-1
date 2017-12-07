@@ -1,6 +1,6 @@
 # Web Page Design - Spring 2018
 
-## Lab-1
+## Lab-1 - The Good, The Bad, and the Internet
 
 **Purpose:** To begin to learn how to look at a web site with a critical eye. To spot problems in user experience and to see things that work well in an effort to learn about things that you might want to emulate.
 
